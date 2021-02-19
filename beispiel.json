@@ -1,0 +1,10 @@
+{
+  "eine_nummer": 123,
+  "eine_kommazahl": 123.45,
+  "ein_text": "Hier steht etwas!",
+  "ein_boolean": true,
+  "ein_array": [1, 2, 3, 4, 5],
+  "ein_object": {
+    "foo": "bar"
+  }
+}
